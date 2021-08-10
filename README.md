@@ -1,9 +1,12 @@
+[CloudFront URL](https://d1j8ypfytb463w.cloudfront.net/)
+[S3-website URL](http://react-shop-test1.s3-website-us-east-1.amazonaws.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:  
-You can use NPM instead of YARN (Up to you)  
+You can use NPM instead of YARN (Up to you)
 
 ### `yarn start` OR `npm run start`
 
